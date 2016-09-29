@@ -1,6 +1,6 @@
 # docker_wrk_benchmark
 
-## haw to use
+## how to use
 
 ```
 docker run -it bootjp/docker_wrk_benchmark bash
